@@ -1,44 +1,65 @@
 <h1 align="center">Hi, I'm Priyanshu Singh</h1>
 <h3 align="center">
-Application Security Analyst specialising in Web & API Penetration Testing.
-Hands-on experience testing 400+ web applications and 300+ APIs, uncovering OWASP Top 10 and OWASP API Top 10 vulnerabilities.
-Focused on manual, attacker-mindset testing, realistic exploitation, and clear remediation reporting.
+Application Security Analyst | Web & API Pentesting <br>
+Tested 400+ web apps and 300+ APIs for OWASP Top 10 vulnerabilities with an attacker mindset
 </h3>
 
-<img align="right" alt="Offensive Security" width="380" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<!-- hacker / terminal vibe image -->
+<img align="right" alt="hacker terminal" width="420"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/__priyanshu980" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
 </a>
 <a href="https://linkedin.com/in/priyanshu-singh" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 </p>
 
-<h3 align="left">Offensive Security Toolkit:</h3>
-<ul>
-<li><b>Burp Suite</b> – manual web & API testing, interception, fuzzing</li>
-<li><b>Postman</b> – API analysis and authentication testing</li>
-<li><b>sqlmap</b> – automated SQL injection detection & exploitation</li>
-<li><b>Nmap</b> – network and service enumeration</li>
-<li><b>Nuclei</b> – scalable vulnerability scanning using custom templates</li>
-<li><b>Linux</b> – bash-based recon and automation</li>
-<li><b>Git</b> – version control for testing scripts and write-ups</li>
-</ul>
+<h3 align="left">Offensive Security Toolkit</h3>
+<p align="left">
+  <!-- colorful icons (always visible) -->
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48"/>
+  <img src="https://wwwcdn.getpostman.com/img/v2/logo-mark.svg" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48"/>
+</p>
 
-<h3 align="left">Focus Areas:</h3>
+<h3 align="left">Pentesting & Recon Tools</h3>
+<p align="left">
+
+  <!-- Burp Suite on white card -->
+  <span style="background:#ffffff; padding:8px; border-radius:10px; display:inline-block; margin-right:8px;">
+    <img src="https://portswigger.net/content/images/logos/burp-suite.svg"
+         alt="Burp Suite" width="42" height="42"/>
+  </span>
+
+  <!-- Nmap on white card -->
+  <span style="background:#ffffff; padding:8px; border-radius:10px; display:inline-block; margin-right:8px;">
+    <img src="https://nmap.org/images/nmap-logo-256x256.png"
+         alt="Nmap" width="42" height="42"/>
+  </span>
+
+  <!-- sqlmap on white card -->
+  <span style="background:#ffffff; padding:8px; border-radius:10px; display:inline-block; margin-right:8px;">
+    <img src="https://sqlmap.org/images/sqlmap.png"
+         alt="sqlmap" width="42" height="42"/>
+  </span>
+
+</p>
+
+<h3 align="left">Focus Areas</h3>
 <ul>
 <li>Broken Access Control (IDOR)</li>
-<li>Authentication & session flaws</li>
+<li>Authentication & Authorization flaws</li>
 <li>Cross-Site Scripting (XSS)</li>
-<li>SQL Injection</li>
-<li>API authorization and logic abuse</li>
+<li>SQL Injection & input validation issues</li>
+<li>API security testing (OWASP API Top 10)</li>
 </ul>
 
-<h3 align="left">Approach:</h3>
 <p>
-Think like an attacker, test like an engineer, report like a consultant.
-From reconnaissance to proof-of-concept exploitation and responsible disclosure.
+<b>Think like an attacker, test like an engineer, report like a consultant.</b>
 </p>
