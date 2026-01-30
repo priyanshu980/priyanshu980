@@ -20,35 +20,20 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h3 align="left">Offensive Security Toolkit</h3>
 <p align="left">
-  <!-- colorful icons (always visible) -->
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="48" height="48"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="48" height="48"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48"/>
-  <img src="https://wwwcdn.getpostman.com/img/v2/logo-mark.svg" width="48" height="48"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48"/>
 </p>
 
 <h3 align="left">Pentesting & Recon Tools</h3>
 <p align="left">
-
-  <!-- Burp Suite on white card -->
-  <span style="background:#ffffff; padding:8px; border-radius:10px; display:inline-block; margin-right:8px;">
-    <img src="https://portswigger.net/content/images/logos/burp-suite.svg"
-         alt="Burp Suite" width="42" height="42"/>
-  </span>
-
-  <!-- Nmap on white card -->
-  <span style="background:#ffffff; padding:8px; border-radius:10px; display:inline-block; margin-right:8px;">
-    <img src="https://nmap.org/images/nmap-logo-256x256.png"
-         alt="Nmap" width="42" height="42"/>
-  </span>
-
-  <!-- sqlmap on white card -->
-  <span style="background:#ffffff; padding:8px; border-radius:10px; display:inline-block; margin-right:8px;">
-    <img src="https://sqlmap.org/images/sqlmap.png"
-         alt="sqlmap" width="42" height="42"/>
-  </span>
-
+  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burp Suite" width="48" height="48"/>
+  <img src="https://nmap.org/images/sitelogo.png" alt="Nmap" width="80" height="40"/>
+  <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="SQLMap" width="100" height="40"/>
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit" width="48" height="48"/>
+  <img src="https://www.kali.org/tools/nuclei/images/nuclei-logo.svg" alt="Nuclei" width="48" height="48"/>
 </p>
 
 <h3 align="left">Focus Areas</h3>
